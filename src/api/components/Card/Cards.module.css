@@ -1,0 +1,18 @@
+
+.infected{
+    border-bottom: 10px solid  blue;
+    height: 8rem;
+    text-align: center;
+}
+.recovered{
+    border-bottom: 10px solid  green;
+    height: 8rem;
+    text-align: center;
+}
+.deaths{
+    border-bottom: 10px solid  red;
+    height: 8rem;
+    text-align: center;
+}
+
+
